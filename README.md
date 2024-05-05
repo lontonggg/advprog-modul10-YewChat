@@ -12,3 +12,13 @@ Login
 Chat
 ![Chat](assets/images/3.1-chat.png)
 
+### 3.2 Be Creative!
+
+Login
+![New Login](assets/images/3.2-login.png)
+
+Chat
+![Now Chat](assets/images/3.2-chat.png)
+
+Explanation : Untuk kreatifitas, saya mengubah warna tema dari keseluruhan aplikasi menjadi dominan merah dan abu gelap. Perubahan ini saya lakukan dengan memodifikasi html yang di return pada file `login.rs` dan `chat.rs`.
+
